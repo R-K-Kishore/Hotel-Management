@@ -1,4 +1,4 @@
-# GrandStay - Hotel Management System
+# Grand Stay - Hotel Management System
 
 A full-stack, enterprise-grade Hotel Management web application built with **React**, **Redux Toolkit**, **Node.js/Express**, and **PostgreSQL**.
 
@@ -26,7 +26,7 @@ Developed as part of a technical assessment for **Namlatech**, the application d
 
 ## Project Overview
 
-GrandStay is designed to manage hotel properties across India with precision and speed. The system avoids mock APIs, dummy backend files, or in-memory arrays; every hotel record, image URL, category gallery, and price is queried from an active PostgreSQL database using parameterized raw SQL via the native `pg` driver.
+Grand Stay is designed to manage hotel properties across India with precision and speed. The system avoids mock APIs, dummy backend files, or in-memory arrays; every hotel record, image URL, category gallery, and price is queried from an active PostgreSQL database using parameterized raw SQL via the native `pg` driver.
 
 ---
 

@@ -74,7 +74,7 @@ function HotelList() {
   return (
     <>
       <Helmet>
-        <title>Hotel Management - GrandStay</title>
+        <title>Hotel Management - Grand Stay</title>
         <meta
           name="description"
           content="Browse and manage all hotels. Search by name, filter by price, and view hotel details."
@@ -82,7 +82,7 @@ function HotelList() {
       </Helmet>
 
       <div className="main-content">
-        <h1 className="page-title">GrandStay</h1>
+        <h1 className="page-title">Grand Stay</h1>
 
         {/* Search and filter bar */}
         <div className="filter-bar">
