@@ -308,3 +308,15 @@ Located on the **Hotel Details** page (`frontend/src/pages/HotelDetails.jsx`):
 * **Credentials Protected:** `.env` is excluded in `.gitignore`. Only safe templates (`.env.example`) are version-controlled.
 * **Double Validation:** Strict boundary validation on both frontend forms and backend controllers (Latitude: `-90` to `90`, Longitude: `-180` to `180`, Price: `> 0`, Title max length: `150`).
 * **Error Sanitization:** All errors return structured JSON (`{ message: "..." }`) with appropriate HTTP status codes (400, 404, 500).
+
+---
+
+🎥 Project Demonstration
+
+The complete demonstration video of GrandStay is available below.
+
+▶️ Watch the Project Demo:
+
+https://drive.google.com/file/d/1ybwlad79RS3P4yAYAtX-_th0xxt9fMgm/view?usp=drive_link
+
+The video demonstrates the application’s features, hotel management operations, CRUD functionality, image uploads, map integration, and overall workflow.
